@@ -14,7 +14,7 @@
 
 ### FIGHT ENDURE RISE
 
-![Dhananjayan SB's github stats](https://github-readme-stats.vercel.app/api?username=dhananjayansb&show_icons=true&theme=gruvbox) 
+![Dhananjayan SB's github stats](https://github-readme-stats.vercel.app/api?username=dhananjayansb&show_icons=true&theme=synthwave) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayansb&layout=compact)
 
