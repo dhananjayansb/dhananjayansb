@@ -30,8 +30,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Dhananjayan SB   | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dhananjayan SB   | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Dhananjayan SB   | LinkedIn" width="22px" src="https://www.freepik.com/free-icon/linkedin_14346425.htm#page=1&query=linkedin&position=24" />][linkedin]
+[<img align="left" alt="Dhananjayan SB   | Instagram" width="22px" src="https://www.freepik.com/free-icon/instagram_14346421.htm#page=3&query=instagram&position=33" />][instagram]
 
 
 <br />
