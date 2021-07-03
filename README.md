@@ -27,15 +27,3 @@
 <img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" />
 
 <br />
-
-### Connect with me:
-
-[<img align="left" alt="Dhananjayan SB   | LinkedIn" width="22px" src="https://www.freepik.com/free-icon/linkedin_14346425.htm#page=1&query=linkedin&position=24" />][linkedin]
-[<img align="left" alt="Dhananjayan SB   | Instagram" width="22px" src="https://www.freepik.com/free-icon/instagram_14346421.htm#page=3&query=instagram&position=33" />][instagram]
-
-
-<br />
-
-
-[instagram]: https://www.instagram.com/ig.forevadj/
-[linkedin]: https://www.linkedin.com/in/dhananjayansb
