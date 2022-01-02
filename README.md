@@ -4,10 +4,10 @@
 
  <img src="https://komarev.com/ghpvc/?username=dhananjayansb" alt="" />
  
-- 🔭 I’m currently working on Java
+- 🔭 I’m currently working on Web Developement
 - 🌱 I’m literally learning everything!
 - 👯 I’m looking to collaborate with lots of content creators
-- 🥅 2021 Goals: Learn as much as I can
+- 🥅 2022 Goals: Try hard and Fail!
 - ⚡ Fun fact: I love to Code 
 - 💬 Contact me on 8056772048
 - 📫 Reach me on dhananjayansb@gmail.com
