@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Web Developement
 - 🌱 I’m literally learning everything!
 - 👯 I’m looking to collaborate with lots of content creators
-- 🥅 2022 Goals: Try hard and Fail!
+- 🥅 2023 Goals: Try hard and Fail!
 - ⚡ Fun fact: I love to Code 
 - 💬 Contact me on 8056772048
 - 📫 Reach me on dhananjayansb@gmail.com
